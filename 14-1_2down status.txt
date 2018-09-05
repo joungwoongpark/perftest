@@ -1,0 +1,29 @@
+nsx-edge01> get edge-cluster  s
+High Availability State     : Inactive
+                  Since     : 2018-09-05 08:23:50.94
+Edge Node Id                : c5de30d8-8984-11e8-9e1a-005056a7e699
+Edge Node Status            : Down
+Admin State                 : Up
+Vtep State                  : Up
+Configuration               : applied
+Health Check Config         :
+    Interval                : 1000 msec
+    Deadtime                : 3000 msec
+    Max Hops                : 255
+Service Status              :
+    Datapath Config Channel : Up
+    Datapath Status Channel : Up
+    Routing Status Channel  : Up
+    Routing Status          : Down
+Peer Status                 :
+    Node Id                 : 930f8a12-8984-11e8-8718-005056a77850
+    Node Thumbprint         : E0:CC:10:FB:BA:5F:BF:C2:46:F9:86:7F:A4:A0:6E:1B:2C:81:01:A5:E1:8B:08:F4:42:98:02:BA:AD:E9:E6:E1
+    Node Status             : Up
+    Healthcheck Sessions    :
+        Interface           : eth0
+        Session             : 192.168.55.41:192.168.55.42
+        Status              : Up
+
+        Interface           : nsx-edge-vtep
+        Session             : 10.35.100.11:10.35.100.12
+        Status              : Unreachable

@@ -1,0 +1,7 @@
+64 bytes from 172.30.8.2: icmp_seq=167 ttl=61 time=0.160 ms
+64 bytes from 172.30.8.2: icmp_seq=168 ttl=61 time=0.170 ms
+64 bytes from 172.30.8.2: icmp_seq=169 ttl=61 time=0.125 ms
+^C
+--- 172.30.8.2 ping statistics ---
+169 packets transmitted, 169 received, 0% packet loss, time 168027ms
+rtt min/avg/max/mdev = 0.103/0.159/0.256/0.034 ms

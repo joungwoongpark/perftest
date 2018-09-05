@@ -1,0 +1,5 @@
+uplink 1 다운
+	- cluster 상태, inoutapi OK
+uplink 1, 2 다운
+	- cluster 상태 inactive , inapi Ok , out 171 sec down
+	

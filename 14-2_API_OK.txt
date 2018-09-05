@@ -1,0 +1,7 @@
+64 bytes from 10.35.107.1: icmp_seq=184 ttl=64 time=0.205 ms
+64 bytes from 10.35.107.1: icmp_seq=185 ttl=64 time=0.203 ms
+64 bytes from 10.35.107.1: icmp_seq=186 ttl=64 time=0.280 ms
+^C
+--- 10.35.107.1 ping statistics ---
+186 packets transmitted, 186 received, 0% packet loss, time 185025ms
+rtt min/avg/max/mdev = 0.101/0.222/0.335/0.054 ms

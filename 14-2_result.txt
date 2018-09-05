@@ -1,0 +1,7 @@
+down 시 동작
+	down 과 동시에 외부통신 단절 -> nsx-edge01 UP/ nsx-edge02 degraded -> 72초 후 nsx-edge01 unknown -> 외부통신 정상
+	내부통신 및 API 통신 정상
+	
+up 시 동작
+	up 과 동시에 nsx-edge01 UP -> comp-esxi01~04 degraded (tunnel status) -> comp01~04 정상+
+	

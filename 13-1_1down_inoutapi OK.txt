@@ -1,0 +1,27 @@
+64 bytes from 172.30.8.2: icmp_seq=151 ttl=61 time=0.277 ms
+64 bytes from 172.30.8.2: icmp_seq=152 ttl=61 time=0.240 ms
+64 bytes from 172.30.8.2: icmp_seq=153 ttl=61 time=0.262 ms
+^C
+--- 172.30.8.2 ping statistics ---
+153 packets transmitted, 153 received, 0% packet loss, time 152025ms
+rtt min/avg/max/mdev = 0.125/0.243/3.048/0.233 ms
+
+
+
+64 bytes from 10.35.102.2: icmp_seq=151 ttl=62 time=0.390 ms
+64 bytes from 10.35.102.2: icmp_seq=152 ttl=62 time=0.414 ms
+64 bytes from 10.35.102.2: icmp_seq=153 ttl=62 time=0.469 ms
+^C
+--- 10.35.102.2 ping statistics ---
+153 packets transmitted, 153 received, 0% packet loss, time 152015ms
+rtt min/avg/max/mdev = 0.376/0.526/2.125/0.157 ms
+
+
+
+64 bytes from 10.35.107.1: icmp_seq=151 ttl=64 time=0.174 ms
+64 bytes from 10.35.107.1: icmp_seq=152 ttl=64 time=0.126 ms
+64 bytes from 10.35.107.1: icmp_seq=153 ttl=64 time=0.176 ms
+^C
+--- 10.35.107.1 ping statistics ---
+153 packets transmitted, 153 received, 0% packet loss, time 152003ms
+rtt min/avg/max/mdev = 0.112/0.226/1.177/0.097 ms

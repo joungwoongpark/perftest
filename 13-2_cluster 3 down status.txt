@@ -1,0 +1,13 @@
+nsx-manager> get management-cluster status
+Number of nodes in management cluster: 1
+- 192.168.55.37    (UUID 62432742-3cc7-2d62-3e75-eb4adc139146) Online
+
+Management cluster status: STABLE
+
+Number of nodes in control cluster: 3
+- 192.168.55.39    (UUID f82a4013-78c1-46dc-b733-48688c02a39b)
+- 192.168.55.40    (UUID d1243a11-c547-44c9-b0d2-bcbfd0a2f223)
+- 192.168.55.38    (UUID a3082d4b-1455-4a12-9981-d7191ab3cd8e)
+
+Control cluster status: UNSTABLE
+

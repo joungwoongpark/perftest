@@ -1,0 +1,28 @@
+
+64 bytes from 10.35.102.2: icmp_seq=646 ttl=61 time=0.318 ms
+64 bytes from 10.35.102.2: icmp_seq=647 ttl=61 time=0.340 ms
+64 bytes from 10.35.102.2: icmp_seq=648 ttl=61 time=0.318 ms
+^C
+--- 10.35.102.2 ping statistics ---
+648 packets transmitted, 648 received, 0% packet loss, time 647023ms
+rtt min/avg/max/mdev = 0.272/0.335/0.532/0.035 ms
+
+
+
+64 bytes from 172.30.8.2: icmp_seq=646 ttl=61 time=0.166 ms
+64 bytes from 172.30.8.2: icmp_seq=647 ttl=61 time=0.145 ms
+64 bytes from 172.30.8.2: icmp_seq=648 ttl=61 time=0.197 ms
+^C
+--- 172.30.8.2 ping statistics ---
+648 packets transmitted, 648 received, 0% packet loss, time 647222ms
+rtt min/avg/max/mdev = 0.109/0.159/0.312/0.036 ms
+
+
+
+64 bytes from 10.35.107.1: icmp_seq=649 ttl=64 time=0.219 ms
+64 bytes from 10.35.107.1: icmp_seq=650 ttl=64 time=0.249 ms
+64 bytes from 10.35.107.1: icmp_seq=651 ttl=64 time=0.167 ms
+^C
+--- 10.35.107.1 ping statistics ---
+651 packets transmitted, 651 received, 0% packet loss, time 650302ms
+rtt min/avg/max/mdev = 0.110/0.561/209.836/8.208 ms

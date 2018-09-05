@@ -1,0 +1,6 @@
+controller 1 다운
+	- cluster 상태, inoutapi OK
+controller 2 다운
+	- cluster 상태 inactive , inoutapi OK(over 10min)
+conterller 3 다운
+	- cluster 상태 inactive , inoutapi OK(over 10min)
