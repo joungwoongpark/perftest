@@ -1,0 +1,26 @@
+#---
+#apiVersion: v1
+#kind: namespace
+#metadata: 
+#  name: ns5
+#
+#---
+apiVersion: apps/v1beta2
+kind: ReplicaSet
+metadata:
+  name: ubuntu-ns5
+  labels:
+    type: u1
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      type: u1
+  template:
+    metadata:
+      labels:
+        type: u1
+    spec:
+      containers:
+      - name: test-ubuntu1
+        image: tutum/ubuntu:trusty
